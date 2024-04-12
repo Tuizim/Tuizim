@@ -1,6 +1,6 @@
 # HELLO WORLD ! I'M ARTUR 🙋‍♂️
 ###### But they affectionately call me **Tuizinho** 🙂
-***
+---
 ### Welcome to my <code>GitHub</code> page !
 
 👇 feel free to contact me via the networks below👇
@@ -10,7 +10,7 @@
 
 
 ### MORE ABOUT ME
-***
+---
 I'm a Brazilian technology student who loves what he does and loves solving problems
  ~~~cs
 class Artur {

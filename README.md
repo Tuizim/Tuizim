@@ -49,8 +49,9 @@
 <p align="left">📞 Comecei no atendimento ao cliente, aprendendo comunicação e resolução de problemas<br><br>💻 Estágio na iTravel: desenvolvimento Full Stack com JQuery, C# , ASP.NET, APIs e SQL<br><br>🔄 Hoje sou estagiário na Shift: Full Stack com Java, Quarkus e Angular, focado em saúde, inovação e acessibilidade<br><br>🤝 Trabalho em times multidisciplinares, sempre buscando entregar valor real e experiência excelente para o usuário<br><br>🌱 Apaixonado por tecnologia que conecta pessoas e transforma ideias em soluções concretas</p>
 
 ###
+<br>
 
-<h3 align="left">📲 Entre em contato comigo pelas redes</h3>
+<h2 align="left">📲 Entre em contato comigo pelas redes</h2>
 
 ###
 
@@ -66,7 +67,11 @@
   </a>
 </div>
 
-###
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tuizim/tuizim/output/pacman-contribution-graph-dark.svg">
